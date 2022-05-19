@@ -11,9 +11,9 @@
 
 💭 I believe in **diversity** and its power to build value solutions, I like challenges and to work together with the team to obtain the best results.
 
-📫 You can reach me by email at [monicaasc.cc@gmail.com]((mailto:monicaasc.cc@gmail.com)) or in my [LinkedIn profile](https://linkedin.com/in/monica-sc)
+📫 You can reach me by email at monicaasc.cc@gmail.com or in my [LinkedIn profile](https://linkedin.com/in/monica-sc)
   
-  
+
 
 
 <div align="center">
