@@ -3,13 +3,11 @@
 
 😄 I'm Brazilian, living in Paraíba and I'm a Quality Assurance Engineer
 
-🌱 I’m currently learning **about mutation testing** and other types of testing
+🌱 I’m currently learning **about rspec and ruby**
 
-💜 I'm also a volunteer [{Reprograma}](https://reprograma.com.br/)
+💬 Ask me about **tests, quality assurance, scrum and requirements engineering**
 
-💬 Ask me about **tests, quality assurance, lead, scrum and requirements engineering**
-
-💭 I believe in **diversity** and its power to build value solutions, I like challenges and to work together with the team to obtain the best results.
+💭 I believe in **diversity** and its power to build value solutions. I like challenges and to work together with the team to obtain the best results.
 
 📫 You can reach me by email at monicaasc.cc@gmail.com or in my [LinkedIn profile](https://linkedin.com/in/monica-sc)
   
